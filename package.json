@@ -1,0 +1,26 @@
+{
+  "name": "croupier",
+  "version": "0.0.1-poc",
+  "description": "Croupier",
+  "main": "./test.sh",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgorin/croupier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgorin/croupier/issues"
+  },
+  "homepage": "https://github.com/vgorin/croupier#readme"
+}

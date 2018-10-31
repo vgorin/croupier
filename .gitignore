@@ -1,0 +1,17 @@
+syntax:glob
+
+# EOSIO
+*.abi
+*.wasm
+*.wast
+
+# Node.JS
+node_modules/
+package-lock.json
+
+# Truffle
+build/
+
+# Intellij IDEA
+*.iml
+
